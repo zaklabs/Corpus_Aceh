@@ -1,6 +1,29 @@
 # Corpus_Aceh
 Merupakan repo dengan kolaborasi bersama untuk mengumpulkan corpus untuk bahasa Aceh.
 
+#### Progress
+<!-- milestone starts -->
+![corpus_split_output00.txt](https://progress-bar.dev/0/?title=corpus_split_output00%20)
+
+![corpus_split_output01.txt](https://progress-bar.dev/0/?title=corpus_split_output01%20)
+
+![corpus_split_output02.txt](https://progress-bar.dev/0/?title=corpus_split_output02%20)
+
+![corpus_split_output03.txt](https://progress-bar.dev/0/?title=corpus_split_output03%20)
+
+![corpus_split_output04.txt](https://progress-bar.dev/0/?title=corpus_split_output04%20)
+
+![corpus_split_output05.txt](https://progress-bar.dev/0/?title=corpus_split_output05%20)
+
+![corpus_split_output06.txt](https://progress-bar.dev/0/?title=corpus_split_output06%20)
+
+![corpus_split_output07.txt](https://progress-bar.dev/0/?title=corpus_split_output07%20)
+
+![corpus_split_output08.txt](https://progress-bar.dev/0/?title=corpus_split_output08%20)
+
+![corpus_split_output09.txt](https://progress-bar.dev/0/?title=corpus_split_output09%20)
+<!-- milestone ends -->
+
 Silahkan untuk melakukan cleaning berdasarkan pembagian file sesuai dengan nama masing-masing. 
 1. Andre Darnius --> corpus_split_output00.txt
 2. Fadhil Kasvi --> corpus_split_output01.txt
@@ -23,3 +46,5 @@ Cleaning/pembersihan data berupa:
 
 
 > **Catatan**: 1 orang berkontribusi untuk 1000 baris kalimat. Satu kalimat minimal memiliki 15-20 kata, dan diakhiri dengan titik (.).
+
+## Bagaimana cara berkontribusi ?
