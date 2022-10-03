@@ -20,3 +20,6 @@ Cleaning/pembersihan data berupa:
 * pengulangan kata yang berlebihan
 * baris baru atau enter yang berlebihan
 * simbol-simbol
+
+
+> **Catatan**: 1 orang berkontribusi untuk 1000 baris kalimat. Satu kalimat minimal memiliki 15-20 kata, dan diakhiri dengan titik (.).
