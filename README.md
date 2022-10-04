@@ -48,3 +48,4 @@ Cleaning/pembersihan data berupa:
 > **Catatan**: 1 orang berkontribusi untuk 1000 baris kalimat. Satu kalimat minimal memiliki 15-20 kata, dan diakhiri dengan titik (.).
 
 ## Bagaimana cara berkontribusi ?
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details. This project exists thanks to [all the people who contribute](https://github.com/GitIndonesia/awesome-indonesia-repo/graphs/contributors).
