@@ -21,7 +21,7 @@ Merupakan repo dengan kolaborasi bersama untuk mengumpulkan corpus untuk bahasa 
 
 ![corpus_split_output08.txt](https://progress-bar.dev/0/?title=corpus_split_output08%20)
 
-![corpus_split_output09.txt](https://progress-bar.dev/0/?title=corpus_split_output09%20)
+![corpus_split_output09.txt](https://progress-bar.dev/67/?title=corpus_split_output09%20)
 <!-- milestone ends -->
 
 Silahkan untuk melakukan cleaning berdasarkan pembagian file sesuai dengan nama masing-masing. 
