@@ -31,8 +31,8 @@ Silahkan untuk melakukan cleaning berdasarkan pembagian file sesuai dengan nama 
 4. Hary Rachmat --> corpus_split_output03.txt
 5. Muhammad Chaidir --> corpus_split_output04.txt
 6. Muhammad Ihsan Ilyas --> corpus_split_output05.txt
-7. Muhammad Fadhil Al Amal --> corpus_split_output06.txt
-8. Reza Aulia --> corpus_split_output07.txt
+7. Reza Aulia --> corpus_split_output06.txt
+8. Muhammad Fadhil Al Amal --> corpus_split_output07.txt
 9. Teuku Yusransyah Tandi --> corpus_split_output08.txt
 10. Zaki Fuadi --> corpus_split_output09.txt
 
