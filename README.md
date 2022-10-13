@@ -11,7 +11,7 @@ Merupakan repo dengan kolaborasi bersama untuk mengumpulkan corpus untuk bahasa 
 
 ![corpus_split_output03.txt](https://progress-bar.dev/0/?title=corpus_split_output03%20)
 
-![corpus_split_output04.txt](https://progress-bar.dev/0/?title=corpus_split_output04%20)
+![corpus_split_output04.txt](https://progress-bar.dev/60/?title=corpus_split_output04%20)
 
 ![corpus_split_output05.txt](https://progress-bar.dev/0/?title=corpus_split_output05%20)
 
