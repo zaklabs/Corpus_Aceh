@@ -5,7 +5,7 @@ Merupakan repo dengan kolaborasi bersama untuk mengumpulkan corpus untuk bahasa 
 <!-- milestone starts -->
 ![corpus_split_output00.txt](https://progress-bar.dev/01/?title=corpus_split_output00%20)
 
-![corpus_split_output01.txt](https://progress-bar.dev/0/?title=corpus_split_output01%20)
+![corpus_split_output01.txt](https://progress-bar.dev/02/?title=corpus_split_output01%20)
 
 ![corpus_split_output02.txt](https://progress-bar.dev/0/?title=corpus_split_output02%20)
 
