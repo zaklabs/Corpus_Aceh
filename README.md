@@ -3,25 +3,25 @@ Merupakan repo dengan kolaborasi bersama untuk mengumpulkan corpus untuk bahasa 
 
 #### Progress
 <!-- milestone starts -->
-![corpus_split_output00.txt](https://progress-bar.dev/01/?title=corpus_split_output00%20)
+![corpus_split_output00.txt](https://progress-bar.dev/01/?title=corpus_split_output00%40)
 
 ![corpus_split_output01.txt](https://progress-bar.dev/02/?title=corpus_split_output01%20)
 
 ![corpus_split_output02.txt](https://progress-bar.dev/0/?title=corpus_split_output02%20)
 
-![corpus_split_output03.txt](https://progress-bar.dev/0/?title=corpus_split_output03%20)
+![corpus_split_output03.txt](https://progress-bar.dev/0/?title=corpus_split_output03%100)
 
 ![corpus_split_output04.txt](https://progress-bar.dev/60/?title=corpus_split_output04%20)
 
-![corpus_split_output05.txt](https://progress-bar.dev/0/?title=corpus_split_output05%20)
+![corpus_split_output05.txt](https://progress-bar.dev/0/?title=corpus_split_output05%100)
 
 ![corpus_split_output06.txt](https://progress-bar.dev/0/?title=corpus_split_output06%20)
 
-![corpus_split_output07.txt](https://progress-bar.dev/100/?title=corpus_split_output07%20)
+![corpus_split_output07.txt](https://progress-bar.dev/100/?title=corpus_split_output07%100)
 
-![corpus_split_output08.txt](https://progress-bar.dev/65/?title=corpus_split_output08%20)
+![corpus_split_output08.txt](https://progress-bar.dev/65/?title=corpus_split_output08%40)
 
-![corpus_split_output09.txt](https://progress-bar.dev/67/?title=corpus_split_output09%20)
+![corpus_split_output09.txt](https://progress-bar.dev/67/?title=corpus_split_output09%80)
 <!-- milestone ends -->
 
 Silahkan untuk melakukan cleaning berdasarkan pembagian file sesuai dengan nama masing-masing. 
